@@ -2,7 +2,7 @@ pg-prove pgtap test runner container
 ===============
 
 A [Docker](https://www.docker.com/) image that execute pg_prove to test a
-a folder of [pgTAP](http://www.pgtap.org) tests within a specific database.
+folder of [pgTAP](http://www.pgtap.org) tests within a specific database.
 
 # How to use
 
